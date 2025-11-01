@@ -1,1 +1,0 @@
-# blue-tryhackme-write-up
